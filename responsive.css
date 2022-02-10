@@ -1,0 +1,72 @@
+@media screen and (max-width:1300px) {
+    nav{
+        justify-content: flex-start;
+       flex-direction: column;
+    }
+    nav ul{
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        margin-left: 17px;
+    }
+    .first{
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+
+    .second{
+align-items: center;
+flex-direction: column;
+justify-content: space-between;
+display: flex;
+    }
+    .btn{
+        border-radius: 5px;
+        height: 40px;
+       
+    }
+    .btn2{
+        border: 2px solid black;
+    }
+
+.btn , .btn2 , .btn3 {
+  margin: 4px auto 4px auto;
+    padding: 6px 8px ;
+    width: 20vw;
+    border-radius: 5px;
+}
+.main{
+height: 1060px;
+}
+.main h1{
+    margin: 95px 483px 8px 483px;
+    font-size: 4.5em;
+}
+.main p{
+    margin: 39px 276px 8px 279px;
+}
+.container{
+    margin: 90px 230px 4px 243px;
+}
+.container h1{
+    /* margin: 35px 182px 0px 182px; */
+    margin: 35px 2px 0px 2px;
+}
+.container p{
+    margin: 9px 4px 8px 0px;
+}
+.container2 h1{
+    margin: 18px 0 8px;
+}
+.container2 p{
+    margin: 36px 298px 4px 298px;
+}
+.last{
+    margin: 98px 200px 100px 200px;
+}
+
+
+    }
+    
+
